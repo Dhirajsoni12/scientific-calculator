@@ -3,23 +3,24 @@
 ## Features:
 
 ### Feature 1) :
-- [ ] Adição
-- [ ] Subtração
-- [ ] Multiplicação
-- [ ] Divisão
+- [X] Adição
+- [X] Subtração
+- [X] Multiplicação
+- [X] Divisão
+- [X] Fatorial
 
 ### Feature 2) :
-- [ ] Raíz Quadrada
-- [ ] Potência
-- [ ] Logaritmo natural 
-- [ ] Raíz Cúbica
+- [X] Raíz Quadrada
+- [X] Potência
+- [X] Logaritmo natural 
+- [X] Raíz Cúbica
 
 ### Feature 3) :
-- [ ] Seno
-- [ ] Cosseno
-- [ ] Arcoseno
-- [ ] Arco cosseno
-- [ ] Tangente
+- [X] Seno
+- [X] Cosseno
+- [X] Arcoseno
+- [X] Arco cosseno
+- [X] Tangente
 
 ### Feature 4) :
 - [ ] Min(x, y)

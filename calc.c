@@ -3,14 +3,6 @@
 
 // FEATURE1
 
->>>>>>> ca9f6d45794759cf2610f7725bb3e89cfa49da75
-
-#include <math.h>
-
-
-
-// FEATURE1
-
 
 
 // FEATURE2

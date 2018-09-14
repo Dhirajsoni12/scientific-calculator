@@ -5,8 +5,14 @@
 
 
 // FEATURE2
+#include<math.h>
+    int raizcubica(int x , int y){
+    float resultado;
 
+    resultado = pow(x , y);
 
+    return resultado;
+}
 // FEATURE3
 
 

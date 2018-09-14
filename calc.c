@@ -74,6 +74,20 @@ double seno(double x){
 	return sin(x);
 }
 
+// FEATURE4
+
+
+double min(double x, double y){
+  return (x<y)?x:y;
+}
+
+double max(double x ,double y){
+  return (x>y)?x:y;
+}
+
+double abs(double x){
+  return (x>0)?x:-x;
+}
 
 int main(){
 	return 0;

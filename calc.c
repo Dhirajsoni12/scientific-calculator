@@ -2,7 +2,10 @@
 
 // FEATURE1
 
-KKKJ eai men
+
+double mul(double x, double y){
+	return x * y;
+}
 
 // FEATURE2
 

@@ -7,8 +7,8 @@
 
 // FEATURE2
 
-int pow(int x, int y){
-	return POW(x,y);
+int pot(int x, int y){
+	return pow(x,y);
 }
 
 int raiz_quadrada(int x){

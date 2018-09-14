@@ -16,11 +16,11 @@
 - [X] Raíz Cúbica
 
 ### Feature 3) :
-- [ ] Seno
-- [ ] Cosseno
-- [ ] Arcoseno
-- [ ] Arco cosseno
-- [ ] Tangente
+- [X] Seno
+- [X] Cosseno
+- [X] Arcoseno
+- [X] Arco cosseno
+- [X] Tangente
 
 ### Feature 4) :
 - [ ] Min(x, y)

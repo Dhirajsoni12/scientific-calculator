@@ -3,8 +3,6 @@
 
 // FEATURE1
 
-
-
 // FEATURE2
 
 int pot(int x, int y){

@@ -2,9 +2,16 @@
 
 // FEATURE1
 
+double soma(double x, double y){
+	return x+y;
+}
 
 double mul(double x, double y){
 	return x * y;
+}
+
+double sub(double x, double y){
+	return x-y;
 }
 
 // FEATURE2

@@ -1,9 +1,6 @@
 #include <stdio.h>
-<<<<<<< HEAD
-=======
 #include <math.h>
 
->>>>>>> feature3
 
 // FEATURE1
 
@@ -48,10 +45,6 @@ printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
 }
 
 // FEATURE3
-<<<<<<< HEAD
-
-
-=======
 double arccos(double valor) {
 	return acos(valor);
 }
@@ -73,7 +66,6 @@ double Cos(int x){
 double seno(double x){
 	return sin(x);
 }
->>>>>>> feature3
 
 int main(){
 	return 0;

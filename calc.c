@@ -2,6 +2,7 @@
 #include <math.h>
 
 
+
 // FEATURE1
 double div(double x, double y){
 	if(y == 0){
@@ -11,6 +12,7 @@ double div(double x, double y){
 		return x / y;
 	}
 }
+
 
 double soma(double x, double y){
 	return x+y;
@@ -45,7 +47,6 @@ logaritmo_natural = log(x);
 printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
 }
 // FEATURE3
-
 double arccos(double valor) {
 	return acos(valor);
 }

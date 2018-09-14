@@ -4,7 +4,7 @@
 
 // FEATURE1
 
-	
+
 
 // FEATURE2
 
@@ -20,6 +20,10 @@ double tangente(double valor) {
 }
 
 
+double arcoseno(double x){
+	return asin(x);
+}
+
 double Cos(int x){
 	return cos(x);
 }
@@ -31,4 +35,3 @@ double seno(double x){
 int main(){
 	return 0;
 }
-

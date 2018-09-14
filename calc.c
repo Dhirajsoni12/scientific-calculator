@@ -12,6 +12,7 @@ double div(double x, double y){
 	}
 }
 
+
 double soma(double x, double y){
 	return x+y;
 }
@@ -23,8 +24,7 @@ double mul(double x, double y){
 double sub(double x, double y){
 	return x-y;
 }
-
-
+ 
 long fat(int x) {
 	if((x == 0) || (x == 1)) {
 		return 1;
@@ -49,11 +49,9 @@ double arccos(double valor) {
 	return acos(valor);
 }
 
-
 double tangente(double valor) {
 	return tan(valor);
 }
-
 
 double arcoseno(double x){
 	return asin(x);

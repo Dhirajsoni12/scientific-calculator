@@ -22,5 +22,11 @@
 - [ ] Tangente
 
 ### Feature 4) :
+- [ ] Min(x, y)
+- [ ] Max(x, y)
+- [ ] Absoluto
+- [ ] Arredondamento
+
+### Feature 5) :
 - [ ] Menu inicial
 

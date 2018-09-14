@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <math.h>
 
+<<<<<<< HEAD
 
 // FEATURE1
+=======
+// FEATURE1
+
+>>>>>>> ca9f6d45794759cf2610f7725bb3e89cfa49da75
+>>>>>>> 41d2873c1bd99d99c7888d3d35e90698f60bef0c
 
 double div(double x, double y){
 	if(y == 0){
@@ -43,7 +49,6 @@ x = 2.718282;
 logaritmo_natural = log(x);
 printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
 }
-
 // FEATURE3
 double arccos(double valor) {
 	return acos(valor);

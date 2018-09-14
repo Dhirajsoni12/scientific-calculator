@@ -1,8 +1,14 @@
 #include <stdio.h>
+#include <math.h>
+
+double seno(double x){
+	return sin(x);
+}
+
 
 // FEATURE1
 
-
+	
 
 // FEATURE2
 

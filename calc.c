@@ -1,4 +1,13 @@
 #include <stdio.h>
+<<<<<<< HEAD
+=======
+#include <math.h>
+
+// FEATURE1
+
+>>>>>>> ca9f6d45794759cf2610f7725bb3e89cfa49da75
+
+>>>>>>> 41d2873c1bd99d99c7888d3d35e90698f60bef0c
 #include <math.h>
 
 double div(double x, double y){
@@ -41,8 +50,27 @@ logaritmo_natural = log(x);
 printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
 }
 // FEATURE3
+double arccos(double valor) {
+	return acos(valor);
+}
 
 
+double tangente(double valor) {
+	return tan(valor);
+}
+
+
+double arcoseno(double x){
+	return asin(x);
+}
+
+double Cos(int x){
+	return cos(x);
+}
+
+double seno(double x){
+	return sin(x);
+}
 
 int main(){
 	return 0;

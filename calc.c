@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-// FEATURE1
+#include <math.h>
 
 double div(double x, double y){
 	if(y == 0){
@@ -22,7 +21,7 @@ double mul(double x, double y){
 double sub(double x, double y){
 	return x-y;
 }
-
+ 
 long fat(int x) {
 	if((x == 0) || (x == 1)) {
 		return 1;
@@ -33,8 +32,14 @@ long fat(int x) {
 }
 
 // FEATURE2
-
-
+int raiz_quadrada(int x){
+	return sqrt(x);
+}
+void log_natural(int x){
+x = 2.718282;
+logaritmo_natural = log(x);
+printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
+}
 // FEATURE3
 
 

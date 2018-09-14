@@ -3,13 +3,26 @@
 
 // FEATURE1
 
+>>>>>>> ca9f6d45794759cf2610f7725bb3e89cfa49da75
+
+#include <math.h>
+
+
+
+// FEATURE1
+
 
 
 // FEATURE2
-
-
+int raiz_quadrada(int x){
+	return sqrt(x);
+}
+void log_natural(int x){
+x = 2.718282;
+logaritmo_natural = log(x);
+printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
+}
 // FEATURE3
-
 double arccos(double valor) {
 	return acos(valor);
 }

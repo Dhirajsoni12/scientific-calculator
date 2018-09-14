@@ -2,6 +2,7 @@
 #include <math.h>
 
 // FEATURE1
+
 double div(double x, double y){
 	if(y == 0){
 		return 0;
@@ -52,6 +53,7 @@ int raizcubica(int x , int y){
 }
 
 // FEATURE3
+
 double arccos(double valor) {
 	return acos(valor);
 }
@@ -71,6 +73,7 @@ double Cos(int x){
 double seno(double x){
 	return sin(x);
 }
+
 
 int main(){
 	return 0;

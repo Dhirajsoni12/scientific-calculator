@@ -1,17 +1,7 @@
 #include <stdio.h>
-
 #include <math.h>
-
-
-
-#include <math.h>
-#include <math.h>
-
 
 // FEATURE1
-
-// FEATURE1
-
 
 double div(double x, double y){
 	if(y == 0){
@@ -33,6 +23,7 @@ double mul(double x, double y){
 double sub(double x, double y){
 	return x-y;
 }
+
 
 long fat(int x) {
 	if((x == 0) || (x == 1)) {

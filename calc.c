@@ -8,14 +8,19 @@ double seno(double x){
 
 // FEATURE1
 
-	
+
 
 // FEATURE2
 
 
 // FEATURE3
+
 double arcoseno(double x){
 	return asin(x);
+}
+
+double Cos(int x){
+	return cos(x);
 }
 
 

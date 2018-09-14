@@ -3,10 +3,11 @@
 ## Features:
 
 ### Feature 1) :
-- [ ] Adição
-- [ ] Subtração
-- [ ] Multiplicação
-- [ ] Divisão
+- [X] Adição
+- [X] Subtração
+- [X] Multiplicação
+- [X] Divisão
+- [X] Fatorial
 
 ### Feature 2) :
 - [ ] Raíz Quadrada

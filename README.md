@@ -7,6 +7,7 @@
 - [ ] Subtração
 - [ ] Multiplicação
 - [ ] Divisão
+- [X] Fatorial
 
 ### Feature 2) :
 - [ ] Raíz Quadrada

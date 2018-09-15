@@ -14,7 +14,7 @@ double div(double x, double y){
 
 
 double soma(double x, double y){
-	return x+y;
+	return x + y;
 }
 
 double mul(double x, double y){
@@ -22,13 +22,13 @@ double mul(double x, double y){
 }
 
 double sub(double x, double y){
-	return x-y;
+	return x - y;
 }
 long fat(int x) {
 	if((x == 0) || (x == 1)) {
 		return 1;
 	}
-	else(x > 1) {
+	else if(x > 1) {
 		return (x * fat(x - 1));
 	}
 }
@@ -41,10 +41,11 @@ int pot(int x, int y){
 int raiz_quadrada(int x){
 	return sqrt(x);
 }
-void log_natural(int x){
-	x = 2.718282;
-	logaritmo_natural = log(x);
-	printf(“Logaritmo natural de x %.2f = %.2f \n”,x,logaritmo_natural);
+double log_natural(double x){
+	//e = 2.718282;
+  	double logaritmo_natural = log(x);
+	printf("Logaritmo natural de x %.2f = %.2f \n",x,logaritmo_natural);
+    return logaritmo_natural;
 }
 int raizcubica(int x , int y){
     float resultado;
@@ -85,7 +86,7 @@ double max(double x ,double y){
   return (x>y)?x:y;
 }
 
-double abs(double x){
+double Abs(double x){
   return (x>0)?x:-x;
 }
 
